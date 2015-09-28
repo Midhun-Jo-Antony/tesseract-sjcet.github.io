@@ -1,3 +1,5 @@
 #Tesseract 2.0
 
-Official Website
+Official Website for Tesseract 2.0
+
+http://www.tesseract-sjcet.github.io
