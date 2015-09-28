@@ -2,4 +2,4 @@
 
 Official Website for Tesseract 2.0
 
-http://www.tesseract-sjcet.github.io
+http://tesseract-sjcet.github.io
